@@ -1,0 +1,4 @@
+# Ignore local sqlite db file if desired, or vendor
+database/*.sqlite
+.DS_Store
+Thumbs.db
